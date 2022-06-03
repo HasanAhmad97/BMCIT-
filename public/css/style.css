@@ -1,0 +1,70 @@
+body{
+    text-align: right;
+    direction: rtl;
+}
+
+#header{
+    text-align: left;
+    direction:ltr;
+}
+
+*, h2, h3, h4, h5 {
+    font-family: Tajawal;
+}
+
+.portfolio #portfolio-flters li{
+    font-family: Tajawal;
+    font-weight: bold;
+}
+
+/*h1,h2{
+    font-family: Lemonada;
+}*/
+
+.services .icon-box-add:hover{
+    border-color: #15972a;
+}
+
+.services .icon-box-add .icon{
+    color: #15972a;
+}
+
+.services .icon-box-ui:hover{
+    border-color: #c525b8;
+}
+
+.services .icon-box-ui .icon{
+    color: #c525b8;
+}
+
+.services .icon-box-img:hover{
+    border-color: #f0954a;
+}
+
+.services .icon-box-img .icon{
+    color: #f0954a;
+}
+
+.services .icon-box-web:hover{
+    border-color: #5247ec;
+}
+
+.services .icon-box-web .icon{
+    color: #5247ec;
+}
+
+.nav-menu a{
+    font-family: Tajawal;
+    font-weight: bold;
+
+}
+
+#hero .btn-get-started {
+    background: #01E675;
+    }
+
+    #hero .btn-get-started:hover {
+        background: #03da6e;
+    }
+
+

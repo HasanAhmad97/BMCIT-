@@ -1,0 +1,6 @@
+Bmtcit.com
+@Bmt7575213
+
+I have enable the SSH for you . These are the details to login Port : 22
+Username :startpo8
+IP address :162.241.219.194
